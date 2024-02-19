@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gldneu
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently modding in TModLoader
   
 <!---
 gldneu/gldneu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
